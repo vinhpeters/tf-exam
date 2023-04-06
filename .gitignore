@@ -131,3 +131,7 @@ dmypy.json
 # Misc 
 *.exe
 pizza_steak*
+*.zip
+*.jpeg
+10_food_classes_all_data*
+
